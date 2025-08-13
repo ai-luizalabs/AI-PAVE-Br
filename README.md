@@ -1,4 +1,4 @@
-# PAVE-BR-Golden-Dataset 🏆
+# PAVE-BR Golden Dataset 🏆
 PAVE-BR Golden Dataset: A meticulously curated, manually annotated dataset for Product Attribute Value Extraction (PAVE) in Brazilian e-commerce 🇧🇷. Designed to benchmark LLM-based 🤖 PAVE for Portuguese, supporting the AI-PAVE-Br project and fostering reproducible NLP research.
 
 ## Purpose of the Golden Set 🎯
