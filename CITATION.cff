@@ -1,0 +1,29 @@
+# CITATION.cff
+cff-version: 1.2.0
+message: "If you use the PAVE-BR Golden Dataset in your research, please cite it using the following details:"
+authors:
+  - family-names: "Gazzola"
+    given-names: "Murilo"
+    affiliation: "LuizaLabs – Center of Excellence in Artificial Intelligence; Mackenzie Presbyterian University"
+  - family-names: "Souto"
+    given-names: "Hugo Gobato"
+    affiliation: "LuizaLabs – Center of Excellence in Artificial Intelligence; University of São Paulo"
+  - family-names: "Silva"
+    given-names: "Samuel"
+    affiliation: "LuizaLabs – Center of Excellence in Artificial Intelligence"
+  - family-names: "Peixoto"
+    given-names: "Júlia Schubert"
+    affiliation: "LuizaLabs – Center of Excellence in Artificial Intelligence"
+  - family-names: "Siqueira"
+    given-names: "Felipe"
+    affiliation: "LuizaLabs – Center of Excellence in Artificial Intelligence"
+  - family-names: "Morais"
+    given-names: "André Luis Pedroso de"
+    affiliation: "LuizaLabs – Center of Excellence in Artificial Intelligence"
+  - family-names: "Gomes"
+    given-names: "Caio"
+    affiliation: "LuizaLabs – Center of Excellence in Artificial Intelligence"
+title: "AI-PAVE-Br: Leveraging Large Language Models for Enhanced Product Attribute Value Extraction through a Golden Set Approach"
+date-released: 2025-08-15
+repository-code: 'https://github.com/hugogobato/PAVE-BR-Golden-Dataset'
+Paper DOI:
