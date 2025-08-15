@@ -89,7 +89,6 @@ In Proceedings of the Symposium in Information and Human Language Technology (ST
   title     = {AI-PAVE-Br: Leveraging Large Language Models for Enhanced Product Attribute Value Extraction through a Golden Set Approach},
   booktitle = {Proceedings of the Symposium in Information and Human Language Technology (STIL)},
   year      = {2025},
-  address   = {},
   url       = {https://github.com/ai-luizalabs/AI-PAVE-Br}
 }
 
